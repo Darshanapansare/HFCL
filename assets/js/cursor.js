@@ -1,0 +1,1 @@
+function fnProcessCarousel(e,t){t=$(t);var i=$(".carousel",t),a=$("nav.arrows",t),n=$(".progress-bar",t);i.flickity({cellAlign:"center",wrapAround:!1,fade:!1,autoPlay:!1,adaptiveHeight:!1,contain:!0,accessibility:!1,prevNextButtons:!1,pageDots:!1});
